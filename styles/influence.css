@@ -1,7 +1,11 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
+
 nav{
     display: flex;
     margin: 80px 120px 0px;
